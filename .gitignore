@@ -1,0 +1,6 @@
+Dataset/
+model/*.hdf5
+model/*.pkl
+*.npy
+__pycache__/
+*.pyc
